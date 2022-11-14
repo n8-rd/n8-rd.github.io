@@ -1,0 +1,21 @@
+.current { color: green; }
+
+body { font-family: monospace; font-size: 1.2em; line-height: 1.6; }
+
+div.main { width: 600px; margin: 0 auto; }
+
+div.top { width: 600px; margin: 0 auto; text-align: center; }
+
+nav { text-align: center; }
+
+figcaption { font-style: italic; color: green; }
+
+figure { padding: 0em; margin: 0em; }
+
+h1.house { letter-spacing: 0.35em; }
+
+a:link { text-decoration: none; color: purple; }
+
+a:hover { text-decoration: underline; }
+
+/*# sourceMappingURL=styles.css.map */

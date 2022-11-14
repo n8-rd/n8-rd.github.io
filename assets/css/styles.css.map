@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "styles.css",
+	"sources": [
+		"styles.scss",
+		"_sass/main.scss"
+	],
+	"sourcesContent": [
+		"@import \"main\";\n",
+		".current {\n  color: green;\n}\n\nbody {\n  font-family: monospace;\n  font-size: 1.2em;\n  line-height: 1.6;\n}\n\ndiv.main {\n  width:600px;\n  margin: 0 auto;\n}\n\ndiv.top {\n  width:600px;\n  margin: 0 auto;\n  text-align: center;\n}\n\nnav {\n  text-align: center;\n}\n\nfigcaption {\n  font-style: italic;\n  color: green;\n}\n\nfigure {\n padding: 0em;\n margin: 0em;\n}\n\nh1.house {\n  letter-spacing: 0.35em;\n}\n\na:link {\n  text-decoration: none;\n  color: purple;\n}\n\na:hover {\n  text-decoration: underline;\n}\n"
+	],
+	"names": [],
+	"mappings": "ACAA,AAAA,QAAQ,CAAC,EACP,KAAK,EAAE,KAAK,GACb;;AAED,AAAA,IAAI,CAAC,EACH,WAAW,EAAE,SAAS,EACtB,SAAS,EAAE,KAAK,EAChB,WAAW,EAAE,GAAG,GACjB;;AAED,AAAA,GAAG,AAAA,KAAK,CAAC,EACP,KAAK,EAAC,KAAK,EACX,MAAM,EAAE,MAAM,GACf;;AAED,AAAA,GAAG,AAAA,IAAI,CAAC,EACN,KAAK,EAAC,KAAK,EACX,MAAM,EAAE,MAAM,EACd,UAAU,EAAE,MAAM,GACnB;;AAED,AAAA,GAAG,CAAC,EACF,UAAU,EAAE,MAAM,GACnB;;AAED,AAAA,UAAU,CAAC,EACT,UAAU,EAAE,MAAM,EAClB,KAAK,EAAE,KAAK,GACb;;AAED,AAAA,MAAM,CAAC,EACN,OAAO,EAAE,GAAG,EACZ,MAAM,EAAE,GAAG,GACX;;AAED,AAAA,EAAE,AAAA,MAAM,CAAC,EACP,cAAc,EAAE,MAAM,GACvB;;AAED,AAAA,CAAC,CAAC,IAAI,CAAC,EACL,eAAe,EAAE,IAAI,EACrB,KAAK,EAAE,MAAM,GACd;;AAED,AAAA,CAAC,CAAC,KAAK,CAAC,EACN,eAAe,EAAE,SAAS,GAC3B"
+}
